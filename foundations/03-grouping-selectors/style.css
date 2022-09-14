@@ -1,0 +1,17 @@
+.clickme {
+    color: white;
+    background-color: black;
+}
+
+.noclickme {
+    color: black;
+    background-color: yellow;
+}
+
+.bothclick {
+    font-size: 28px;
+    font-family: helvetica, times 'Times New Roman', Times, serif,;
+    text-align: center;
+    
+}
+
